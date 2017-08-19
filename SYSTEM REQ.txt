@@ -1,0 +1,16 @@
+USERNAME
+PASSWORD
+
+Pet owner information
+NAME (First name and Last name)
+ADDRESS
+CELLPHONE NUMBER
+TELEPHONE NUMBER
+EMAIL
+
+Pet information
+NAME
+DOF
+BREED
+SHOTS
+APPTS

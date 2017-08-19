@@ -1,0 +1,70 @@
+Documentation Format for System Analysis and Design /Software Project /Thesis or Capstone Project
+
+Documentation Format for System Analysis and Design
+ /Software Project 
+
+
+Title Page
+Table of Contents
+List of Tables
+List of Figures
+List of Appendices
+1.0   Introduction
+1.1   Background of the Study
+1.1.1          History ,Company Background
+1.1.2          Statement of the Problem
+1.2   Statement of Objectives
+1.2.1          General Objective
+1.2.2          Specific Objectives
+1.3   Significance of the Study
+1.4   Scope and Limitation of the Study
+2.0   Methodology of the Study
+3.0   Data Gathering Procedures and Output
+4.0   The Existing Sytem
+4.1   Company Background
+4.2   Description of the System
+4.3   Data Flow Diagram
+4.4   Data Dictionary
+4.5   Problem Areas
+4.5.1          Functional Requirements
+4.5.2          Technical Requirements
+4.5.3          User Requirements
+4.6   Operating Cost
+5.0   The Proposed System
+5.1   System Overview
+5.1.1          Cost and Benefits Analysis
+5.2   Process Specification
+5.2.1          Data Flow Diagram
+5.2.2          Data Dictionary
+5.3   Data Specification
+5.3.1          Entity Relationship Diagram
+5.3.2          Relational Diagram
+5.3.3          Database Tables / Fields Specification
+5.3.4          Screen Layout Specification
+5.3.5          Report/Form Specification
+5.3.6          Program Module Specification
+6.0   Program Coding
+6.1   Programming Language
+6.2   Software/System Tools
+
+6.3   System Testing Plan
+6.3.1          Testing Stages
+6.3.2          Testing Schedules
+7.0   System Implementation Plan
+7.1   Resource Requirements
+7.1.1          Hardware Requirements (minimum , recommended ,development requirements)
+7.1.2          Software Requirements(minimum , recommended ,development requirements)
+7.1.3          Human Resource Requirements
+8.0   Implementation Plan
+8.1   Site Preparation
+8.2   Personnel Training
+8.3   System Conversion
+8.4   Data Conversion
+8.5   Implementation Schedule
+9.0   System Maintenance
+
+
+Appendices
+Bibliography
+
+Resource Person
